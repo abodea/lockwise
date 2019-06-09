@@ -23,3 +23,12 @@ Owner: Product Manager
 - 
 
 ### Dependencies (Added by PM and Eng)
+
+
+
+### Acceptance Criteria (Added by PM)
+- Event pings can be queried via re:dash
+- We are sending telemetry events for the actions listed in the requirements
+- We have documented the telemetry
+- We have asked a data steward to [review](https://github.com/mozilla/data-review/blob/master/request.md) the telemetry
+- NOT an AC: Data science to create dashboard or further graphs (this will be a separate issue, this issue is only about hooking up the events described and that they can be queried in re-dash)
