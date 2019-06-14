@@ -11,7 +11,12 @@ assignees: ''
 - Add relevant info/research related to this feature
 - Immediate task: Convert to epic and move to appropriate milestone
 
-### Actual behavior
+### Acceptance Criteria (Added by PM. For EPM to track when a Meta feature is done)
+-UX completed
+-User stories completed
+-Strings written and approved
+-QA completed
+-Localization done
 
 ### Device & build information
 * Device: ?
