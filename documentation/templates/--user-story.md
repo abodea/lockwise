@@ -4,3 +4,13 @@ about: Create a user story for an epic
 title: ""
 labels: ''
 assignees: ''
+
+---
+## User Story
+- As a user, I want … so I can do … 
+
+## Dependencies
+- List dependencies on other issues/teams etc.
+
+### Acceptance Criteria
+- I can do …  (e.g. add a bookmark)
