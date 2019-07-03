@@ -1,1 +1,12 @@
-
+#
+#  This is a little script to populate Firefox Sync with
+#  fake password records.  Use it like so:
+#
+#    $> pip install PyFxA syncclient cryptography
+#    $> python ./upload_fake_passwords.py 20
+#
+#  It will prompt for your Firefox Account email address and
+#  password, generate and upload 20 fake password records, then
+#  sync down and print all password records stored in sync.
+# 
+You always need to change the email, for any usage.
