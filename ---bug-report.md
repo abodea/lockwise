@@ -1,14 +1,12 @@
 ---
 name: "\U0001F41E Bug report"
 about: Create a report to help us improve
-labels: "bug"
+labels: "type: defect"
 
 ---
 
 ## Steps to reproduce
-1.
-2.
-3.
+
 ### Expected behavior
 
 ### Actual behavior
